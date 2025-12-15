@@ -1,0 +1,5 @@
+package model;
+
+public enum NotificationTypes {
+    EVENT_CREATED, EVENT_UPDATED, TEAM_CREATED, TEAM_UPDTAED, EVENT_RESTORED, EVENT_DELETED
+}
