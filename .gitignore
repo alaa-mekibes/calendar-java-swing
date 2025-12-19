@@ -1,0 +1,30 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# NetBeans
+nbactions.xml
+nb-configuration.xml
+
+# Runtime/Data files
+data.ser
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.classpath
+.project
